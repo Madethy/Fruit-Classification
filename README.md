@@ -4,7 +4,7 @@ The Deep learning model is built using fast.ai library and kaggle dataset called
 
 ![Screenshot from 2019-12-12 22-04-52](https://user-images.githubusercontent.com/29728855/70844892-d0b4cd80-1e6d-11ea-8673-25935573f648.png)
 
-### Dataset properties
+### [Fruits-360](https://www.kaggle.com/moltean/fruits)
 
 Total number of images: 82213.
 
